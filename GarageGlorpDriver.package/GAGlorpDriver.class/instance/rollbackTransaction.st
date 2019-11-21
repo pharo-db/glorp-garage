@@ -1,4 +1,0 @@
-glorp-API
-rollbackTransaction
-
-	connection rollbackTransaction
